@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.sec1{
+    background-color:rgb(103, 55, 192);
+    /* border: 2px solid blueviolet; */
+    height: 400px;
+    width: 40%;
+    /* margin-left: 25%; */
+}
+h2{
+    /* background-color: cadetblue; */
+    /* border: 2px solid red; */
+    /* height: 200px; */
+    margin-left: 36%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#addForm{
+    /* border: 2px solid red; */
+    list-style: none;
+}
+#item{
+    /* border: 2px solid red; */
+    height: 30px;
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 26%;
+}
+#submit{
+    /* border: 2px solid red; */
+    margin-left: 40%;
+    margin-top: 30px;
+    height: 30px;
+    width: 10%;
+    background-color: azure;
+    font-size: 14px;
+    color: black;
+}
+h3{
+ /* border: 2px solid rebeccapurple; */
+ margin-top: 20px;
+ margin-left: 10%;
+ color: rgb(24, 13, 18);
+ font-size: 25px;
+}
+#items{
+    margin-top: 20px;
+}
